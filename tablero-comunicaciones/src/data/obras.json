@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-75.5478, 6.2946] },
+        "properties": {
+          "comuna": "01 - Popular",
+          "estado": "Proyectado",
+          "categoria": "Cicloparquederos",
+          "nombre": "Ecoparque La Herrera"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-75.5434, 6.2943] },
+        "properties": {
+          "comuna": "01 - Popular",
+          "estado": "En Ejecucion",
+          "categoria": "Presupuesto Participativo",
+          "nombre": "Biblioteca Nororiental"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-75.5430, 6.2938] },
+        "properties": {
+          "comuna": "01 - Popular",
+          "estado": "Finalizada",
+          "categoria": "Espacios Públicos y Recreación",
+          "nombre": "Parque Skate Santo Domingo"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-75.5415, 6.2946] },
+        "properties": {
+          "comuna": "01 - Popular",
+          "estado": "En Ejecucion",
+          "categoria": "Andenes y Pasarelas",
+          "nombre": "Pasamanos Calle 107"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-75.5456, 6.2992] },
+        "properties": {
+          "comuna": "01 - Popular",
+          "estado": "Proyectado",
+          "categoria": "Vías Urbanas",
+          "nombre": "Mejoras Calle 110 BB"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-75.5432, 6.2964] },
+        "properties": {
+          "comuna": "02 - Santa Cruz",
+          "estado": "En Ejecucion",
+          "categoria": "Presupuesto Participativo",
+          "nombre": "Sendero Barrio Santa Cruz"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-75.5480, 6.2972] },
+        "properties": {
+          "comuna": "02 - Santa Cruz",
+          "estado": "Proyectado",
+          "categoria": "Espacios Públicos y Recreación",
+          "nombre": "Parque El Mirador"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-75.5460, 6.2950] },
+        "properties": {
+          "comuna": "03 - Manrique",
+          "estado": "En Ejecucion",
+          "categoria": "Andenes y Pasarelas",
+          "nombre": "Pasarela Carrera 42"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-75.5500, 6.2960] },
+        "properties": {
+          "comuna": "03 - Manrique",
+          "estado": "Finalizada",
+          "categoria": "Vías Urbanas",
+          "nombre": "Pavimentación Calle 108"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-75.5520, 6.2980] },
+        "properties": {
+          "comuna": "03 - Manrique",
+          "estado": "Proyectado",
+          "categoria": "Presupuesto Participativo",
+          "nombre": "Centro Comunal Manrique"
+        }
+      }
+      
+    ]
+  }
+ 
